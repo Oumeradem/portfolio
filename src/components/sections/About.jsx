@@ -38,7 +38,7 @@ export const About = () => {
                         </p>
 
                          <p className="text-gray-300 mb-4">
-                            I don't just test applications — I build them. My food delivery app (full-stack
+                            I don't just test applications - I build them. My food delivery app (full-stack
                             MERN, JWT auth, live Stripe payments) serves as the sandbox for my 29-step
                             automation suite, giving me developer-level insight into designing more precise,
                             maintainable test coverage.
