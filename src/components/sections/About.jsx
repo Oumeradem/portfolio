@@ -31,11 +31,19 @@ export const About = () => {
 
                     <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
                         <p className="text-gray-300 mb-6">
-                            Adaptable professional transitioning into software engineering with a 
-                            foundation in full-stack development, QA automation, and CI/CD pipelines. 
-                            My 6+ years in high-stakes logistics and operations at Sea-Tac 
-                            International Airport shaped my attention to detail, problem-solving 
-                            ability, and commitment to quality.
+                            ISTQB CTFL-certified Software Test Automation Engineer with hands-on experience
+                            designing end-to-end (E2E) QA frameworks using Playwright, TypeScript, and
+                            Cucumber BDD. Skilled in Page Object Model architecture, API and cross-browser
+                            automation, and Jenkins CI/CD integration.
+
+                            I don't just test applications — I build them. My food delivery app (full-stack 
+                            MERN, JWT auth, live Stripe payments) serves as the sandbox for my 29-step
+                            automation suite, giving me developer-level insight into designing more precise, 
+                            maintainable test coverage.
+
+                            My 6+ years in high-stakes logistics operations at Sea-Tac International Airport 
+                            - managing 200+ travelers per shift with 99.8% routing accuracy - shaped the 
+                            attention to detail and structured problem-solving I now bring to quality assurance.
                         </p>
 
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
