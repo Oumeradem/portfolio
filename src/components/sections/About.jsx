@@ -46,7 +46,7 @@ export const About = () => {
 
                           <p className="text-gray-300 mb-6">
                             My 6+ years in high-stakes logistics operations at Sea-Tac International Airport
-                            — managing 200+ travelers per shift with 99.8% routing accuracy — shaped the
+                            - managing 200+ travelers per shift with 99.8% routing accuracy - shaped the
                             attention to detail and structured problem-solving I now bring to quality assurance.
                         </p>
 
