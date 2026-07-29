@@ -101,8 +101,8 @@ export const About = () => {
                         <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
                             <h3 className="text-xl font-bold mb-4">Certifications</h3>
                             <ul className="list-disc list-inside text-gray-300 space-y-2 text-sm">
-                                <li><strong>ISTQB CTFL</strong> — Dec 2025</li>
-                                <li><strong>CompTIA A+</strong> — Sep 2025</li>
+                                <li><strong> ISTQB CTFL</strong> — Dec 2025</li>
+                                <li><strong> CompTIA A+</strong> — Sep 2025</li>
                             </ul>
                         </div>
                     </div>
