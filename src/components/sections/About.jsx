@@ -38,16 +38,18 @@ export const About = () => {
                         </p>
 
                          <p className="text-gray-300 mb-4">
-                            I don't just test applications - I build them. My food delivery app (full-stack
-                            MERN, JWT auth, live Stripe payments) serves as the sandbox for my 29-step
-                            automation suite, giving me developer-level insight into designing more precise,
-                            maintainable test coverage.
+                            At Addis Cloud I designed and maintained a production-grade
+                            E2E test automation framework for a Fleet Management Application
+                            — reducing manual regression effort by 70% and defect escape
+                            rate by 60%. I bring structured QA thinking to every framework
+                            I build, from test planning through CI/CD integration.
                         </p>
 
                           <p className="text-gray-300 mb-6">
-                            My 6+ years in high-stakes logistics operations at Sea-Tac International Airport
-                            - managing 200+ travelers per shift with 99.8% routing accuracy - shaped the
-                            attention to detail and structured problem-solving I now bring to quality assurance.
+                            With a background in quality assurance at King Abdulaziz International
+                            Airport in Saudi Arabia — conducting stress testing, defect documentation,
+                            and compliance reporting — I bring real-world QA discipline to every
+                            automation framework I build.
                         </p>
 
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -85,12 +87,9 @@ export const About = () => {
                         <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
                             <h3 className="text-xl font-bold mb-4">Education</h3>
                             <ul className="list-disc list-inside text-gray-300 space-y-2">
-                                <li>
-                                    <strong>Full-Stack Web Development</strong> — Coding Dojo
-                                </li>
-                                <li>
-                                    <strong>IT Support Specialist</strong> — Per Scholas
-                                </li>
+                               <li><strong>IT Support Specialist</strong> — Per Scholas | 2025</li>
+                                <li><strong>Full-Stack Web Development</strong> — Coding Dojo | 2024</li>
+                                <li><strong>IT Fundamentals</strong> — Highline College | 2018–2020</li>
                             </ul>
                         </div>
 
