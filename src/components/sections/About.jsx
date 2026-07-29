@@ -94,7 +94,7 @@ export const About = () => {
                             <ul className="list-disc list-inside text-gray-300 space-y-2 text-sm">
                                 <li><strong>IT Support Specialist</strong> — Per Scholas | 2025</li>
                                 <li><strong>Full-Stack Web Development</strong> — Coding Dojo | 2024</li>
-                                <li><strong>IT Fundamentals</strong> — Highline College | 2018–2020</li>
+                                <li><strong>IT Fundamentals</strong> — Highline College | 2018 - 2020</li>
                             </ul>
                         </div>
 
