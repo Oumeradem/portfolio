@@ -24,21 +24,21 @@ export const About = () => {
                             ISTQB CTFL-certified Software Test Automation Engineer specializing in
                             designing, building, and deploying production-grade E2E test frameworks
                             using Playwright, Cucumber BDD, TypeScript, and Jenkins CI/CD. Proven
-                            ability to bridge manual QA and full automation — reducing regression
+                            ability to bridge manual QA and full automation - reducing regression
                             effort, accelerating release cycles, and eliminating critical defects
                             before they reach production.
                         </p>
                         <p className="text-gray-300 mb-4">
                             At Addis Cloud I designed and maintained a production-grade E2E test
-                            automation framework for a Fleet Management Application — reducing manual
+                            automation framework for a Fleet Management Application - reducing manual
                             regression effort by 70% and defect escape rate by 60%. I bring structured
                             QA thinking to every framework I build, from test planning through CI/CD
                             integration.
                         </p>
                         <p className="text-gray-300 mb-6">
                             With a background in quality assurance at King Abdulaziz International
-                            Airport in Saudi Arabia — conducting stress testing, defect documentation,
-                            and compliance reporting — I bring real-world QA discipline to every
+                            Airport in Saudi Arabia - conducting stress testing, defect documentation,
+                            and compliance reporting - I bring real-world QA discipline to every
                             automation framework I build.
                         </p>
 
@@ -72,13 +72,19 @@ export const About = () => {
                             <div className="space-y-4 text-gray-300">
                                 <div>
                                     <h4 className="font-semibold text-white">Software Test Automation Engineer</h4>
-                                    <p className="text-blue-400 text-sm mb-1">Addis Cloud | Jan 2020 – Present</p>
-                                    <p className="text-sm">E2E frameworks using Playwright, Cucumber BDD, TypeScript, and Jenkins CI/CD for a Fleet Management Application.</p>
+                                    <p className="text-blue-400 text-sm mb-1">Addis Cloud | Jan 2020 - Present</p>
+                                    <p className="text-sm">Designed and maintained production-grade E2E automation 
+                                            frameworks — reducing manual regression effort by 70% 
+                                            and defect escape rate by 60% across 15+ core application flows.</p>
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-white">QA / Concrete Testing Specialist</h4>
-                                    <p className="text-blue-400 text-sm mb-1">ACTS | 2014 – 2017 | Saudi Arabia</p>
-                                    <p className="text-sm">Stress testing, defect documentation, and compliance reporting at King Abdulaziz International Airport.</p>
+                                    <p className="text-blue-400 text-sm mb-1">ACTS | 2014 - 2017 | Saudi Arabia</p>
+                                    <p className="text-sm">Daily slump, temperature, and air content testing — 
+                                            casting and compressing cylinder samples using hydraulic 
+                                            machinery to detect unexpected failures, document anomalies, 
+                                            and ensure materials meet strict structural specifications 
+                                            before use.</p>
                                 </div>
                             </div>
                         </div>
