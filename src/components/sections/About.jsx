@@ -2,25 +2,13 @@ import { RevealOnScroll } from "../RevealOnScroll";
 
 export const About = () => {
     const testingSkills = [
-        "Playwright",
-        "Cucumber BDD",
-        "Selenium",
-        "Jenkins CI/CD",
-        "Faker.js",
-        "Page Object Model",
-        "TypeScript",
-        "Postman",
-        "Jira"
+        "Playwright", "Cucumber BDD", "Selenium", "Jenkins CI/CD",
+        "Faker.js", "Page Object Model", "TypeScript", "Postman", "Jira"
     ];
 
     const devSkills = [
-        "React",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "TypeScript",
-        "JavaScript",
-        "REST APIs"
+        "React", "Node.js", "Express", "MongoDB",
+        "TypeScript", "JavaScript", "REST APIs"
     ];
 
     return (
@@ -40,15 +28,13 @@ export const About = () => {
                             effort, accelerating release cycles, and eliminating critical defects
                             before they reach production.
                         </p>
-
                         <p className="text-gray-300 mb-4">
-                             At Addis Cloud I designed and maintained a production-grade
-                            E2E test automation framework for a Fleet Management Application
-                            — reducing manual regression effort by 70% and defect escape
-                            rate by 60%. I bring structured QA thinking to every framework
-                            I build, from test planning through CI/CD integration.
+                            At Addis Cloud I designed and maintained a production-grade E2E test
+                            automation framework for a Fleet Management Application — reducing manual
+                            regression effort by 70% and defect escape rate by 60%. I bring structured
+                            QA thinking to every framework I build, from test planning through CI/CD
+                            integration.
                         </p>
-
                         <p className="text-gray-300 mb-6">
                             With a background in quality assurance at King Abdulaziz International
                             Airport in Saudi Arabia — conducting stress testing, defect documentation,
@@ -80,18 +66,35 @@ export const About = () => {
                         </div>
                     </div>
 
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
+                        <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
+                            <h3 className="text-xl font-bold mb-4">Experience</h3>
+                            <div className="space-y-4 text-gray-300">
+                                <div>
+                                    <h4 className="font-semibold text-white">Software Test Automation Engineer</h4>
+                                    <p className="text-blue-400 text-sm mb-1">Addis Cloud | Jan 2020 – Present</p>
+                                    <p className="text-sm">E2E frameworks using Playwright, Cucumber BDD, TypeScript, and Jenkins CI/CD for a Fleet Management Application.</p>
+                                </div>
+                                <div>
+                                    <h4 className="font-semibold text-white">QA / Concrete Testing Specialist</h4>
+                                    <p className="text-blue-400 text-sm mb-1">ACTS | 2014 – 2017 | Saudi Arabia</p>
+                                    <p className="text-sm">Stress testing, defect documentation, and compliance reporting at King Abdulaziz International Airport.</p>
+                                </div>
+                            </div>
+                        </div>
+
                         <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
                             <h3 className="text-xl font-bold mb-4">Education</h3>
-                            <ul className="list-disc list-inside text-gray-300 space-y-2">
+                            <ul className="list-disc list-inside text-gray-300 space-y-2 text-sm">
                                 <li><strong>IT Support Specialist</strong> — Per Scholas | 2025</li>
                                 <li><strong>Full-Stack Web Development</strong> — Coding Dojo | 2024</li>
                                 <li><strong>IT Fundamentals</strong> — Highline College | 2018–2020</li>
                             </ul>
                         </div>
+
                         <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
                             <h3 className="text-xl font-bold mb-4">Certifications</h3>
-                            <ul className="list-disc list-inside text-gray-300 space-y-2">
+                            <ul className="list-disc list-inside text-gray-300 space-y-2 text-sm">
                                 <li><strong>ISTQB CTFL</strong> — Dec 2025</li>
                                 <li><strong>CompTIA A+</strong> — Sep 2025</li>
                             </ul>
