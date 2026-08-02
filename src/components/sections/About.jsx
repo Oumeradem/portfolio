@@ -21,25 +21,25 @@ export const About = () => {
 
                     <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
                         <p className="text-gray-300 mb-4">
-                            ISTQB CTFL-certified Software Test Automation Engineer specializing in
-                            designing, building, and deploying production-grade E2E test frameworks
-                            using Playwright, Cucumber BDD, TypeScript, and Jenkins CI/CD. Proven
-                            ability to bridge manual QA and full automation - reducing regression
-                            effort, accelerating release cycles, and eliminating critical defects
-                            before they reach production.
+                            ISTQB CTFL-certified Software Test Automation Engineer with 
+                            hands-on experience building production-grade E2E frameworks 
+                            using Playwright, Cucumber BDD, TypeScript, and Jenkins CI/CD. 
+                            Skilled in Page Object Model, API testing, defect triage, 
+                            and BDD methodology.
                         </p>
                         <p className="text-gray-300 mb-4">
-                            At Addis Cloud I designed and maintained a production-grade E2E test
-                            automation framework for a Fleet Management Application - reducing manual
-                            regression effort by 70% and defect escape rate by 60%. I bring structured
-                            QA thinking to every framework I build, from test planning through CI/CD
-                            integration.
+                            While working full time at Sea-Tac International Airport I 
+                            independently built a production-grade 29-step E2E automation 
+                            framework and a full-stack MERN food delivery application — 
+                            demonstrating self-driven commitment to software engineering 
+                            and QA automation.
                         </p>
                         <p className="text-gray-300 mb-6">
-                            With a background in quality assurance at King Abdulaziz International
-                            Airport in Saudi Arabia - conducting stress testing, defect documentation,
-                            and compliance reporting - I bring real-world QA discipline to every
-                            automation framework I build.
+                            With a background in quality assurance at King Abdulaziz 
+                            International Airport in Saudi Arabia — conducting daily slump, 
+                            temperature, stress and load testing, and defect documentation — 
+                            I bring real-world QA discipline to every automation framework 
+                            I build.
                         </p>
 
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -71,20 +71,19 @@ export const About = () => {
                             <h3 className="text-xl font-bold mb-4">Experience</h3>
                             <div className="space-y-4 text-gray-300">
                                 <div>
-                                    <h4 className="font-semibold text-white">Software Test Automation Engineer</h4>
-                                    <p className="text-blue-400 text-sm mb-1">Addis Cloud | Jan 2020 - Present</p>
-                                    <p className="text-sm">Designed and maintained production-grade E2E automation 
-                                            frameworks — reducing manual regression effort by 70% 
-                                            and defect escape rate by 60% across 15+ core application flows.</p>
+                                    <h4 className="font-semibold text-white">Passenger Logistics Facilitator</h4>
+                                    <p className="text-blue-400 text-sm mb-1">Prospect Airport Services — Sea-Tac | Sep 2020 – Present</p>
+                                    <p className="text-sm">Managed 200+ travelers per shift while independently 
+                                    building a production-grade Playwright automation framework 
+                                    and full-stack MERN application.</p>
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-white">QA / Concrete Testing Specialist</h4>
-                                    <p className="text-blue-400 text-sm mb-1">ACTS | 2014 - 2017 | Saudi Arabia</p>
+                                    <p className="text-blue-400 text-sm mb-1">ACTS | 2014 – 2017 | Saudi Arabia</p>
                                     <p className="text-sm">Daily slump, temperature, and air content testing — 
-                                            casting and compressing cylinder samples using hydraulic 
-                                            machinery to detect unexpected failures, document anomalies, 
-                                            and ensure materials meet strict structural specifications 
-                                            before use.</p>
+                                    compression and stress testing using hydraulic machinery 
+                                    to detect failures and ensure materials meet strict 
+                                    structural specifications.</p>
                                 </div>
                             </div>
                         </div>
@@ -94,15 +93,15 @@ export const About = () => {
                             <ul className="list-disc list-inside text-gray-300 space-y-2 text-sm">
                                 <li><strong>IT Support Specialist</strong> — Per Scholas | 2025</li>
                                 <li><strong>Full-Stack Web Development</strong> — Coding Dojo | 2024</li>
-                                <li><strong>IT Fundamentals</strong> — Highline College | 2018 - 2020</li>
+                                <li><strong>IT Fundamentals</strong> — Highline College | 2018–2020</li>
                             </ul>
                         </div>
 
                         <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
                             <h3 className="text-xl font-bold mb-4">Certifications</h3>
                             <ul className="list-disc list-inside text-gray-300 space-y-2 text-sm">
-                                <li><strong> ISTQB CTFL</strong> — Dec 2025</li>
-                                <li><strong> CompTIA A+</strong> — Sep 2025</li>
+                                <li><strong>ISTQB CTFL</strong> — Dec 2025</li>
+                                <li><strong>CompTIA A+</strong> — Sep 2025</li>
                             </ul>
                         </div>
                     </div>
