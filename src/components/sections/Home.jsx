@@ -28,7 +28,7 @@ export const Home = () => {
                         <a href="#contact" className="border border-blue-500/50 text-blue-500 py-3 px-6 rounded font-medium transition-all duration-200 hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59,130,246,0.4)] hover:bg-blue-500/10">
                             Contact Me
                         </a>
-                        <a href="/Adem_Resume.pdf" download="Oumer_Adem_Resume.pdf" className="bg-cyan-500 text-white py-3 px-6 rounded font-medium transition hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(6,182,212,0.4)]">
+                        <a href="/Oumer_Adem_Resume.pdf" download="Oumer_Adem_Resume.pdf" className="bg-cyan-500 text-white py-3 px-6 rounded font-medium transition hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(6,182,212,0.4)]">
                             Download Resume
                         </a>
                     </div>
