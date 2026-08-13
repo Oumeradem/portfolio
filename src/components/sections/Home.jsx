@@ -16,12 +16,12 @@ export const Home = () => {
                     <p className="text-blue-400 text-xl font-semibold mb-4">
                         Software Test Automation Engineer
                     </p>
-                    <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-                        ISTQB CTFL-certified QA Automation Engineer specializing
-                        in Playwright, Cucumber BDD, TypeScript, and Jenkins CI/CD.
-                        I build test frameworks that eliminate bugs before they reach production.
+                    <p className="text-gray-400 text-lg mb-8 max-w-2xl mx-auto">
+                        ISTQB CTFL-certified QA Automation Engineer with hands-on production testing 
+                        experience on the Uber app via Testlio. I build Playwright and Cucumber BDD 
+                        frameworks that eliminate bugs before they reach production.
                     </p>
-                    <div className="flex justify-center flex-wrap gap-3">
+                                        <div className="flex justify-center flex-wrap gap-3">
                         <a href="#projects" className="bg-blue-500 text-white py-3 px-6 rounded font-medium transition hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]">
                             View Projects
                         </a>
