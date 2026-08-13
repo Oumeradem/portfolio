@@ -71,6 +71,11 @@ export const About = () => {
                             <h3 className="text-xl font-bold mb-4">Experience</h3>
                             <div className="space-y-4 text-gray-300">
                                 <div>
+                                    <h4 className="font-semibold text-white">Freelance QA Tester — Uber App</h4>
+                                    <p className="text-blue-400 text-sm mb-1">Testlio | Dec 2025 – Present | Remote</p>
+                                    <p className="text-sm">Selected by Testlio to test Uber's production mobile app across iOS and Android. Completed 30+ test cycles and filed 40+ verified defect reports covering navigation, payments, voice commands, and app crashes.</p>
+                                </div>
+                                <div>
                                     <h4 className="font-semibold text-white">Passenger Logistics Facilitator</h4>
                                     <p className="text-blue-400 text-sm mb-1">Prospect Airport Services — Sea-Tac | Sep 2020 – Present</p>
                                     <p className="text-sm">Managed 200+ travelers per shift while independently 
