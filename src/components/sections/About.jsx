@@ -21,25 +21,23 @@ export const About = () => {
 
                     <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
                         <p className="text-gray-300 mb-4">
-                            ISTQB CTFL-certified Software Test Automation Engineer with 
-                            hands-on experience building production-grade E2E frameworks 
-                            using Playwright, Cucumber BDD, TypeScript, and Jenkins CI/CD. 
-                            Skilled in Page Object Model, API testing, defect triage, 
-                            and BDD methodology.
+                            STQB CTFL-certified Software Test Automation Engineer with hands-on production
+                            testing experience — selected by Testlio to test Uber's live mobile app, 
+                            completing 30+ test cycles and filing 40+ verified defect reports across iOS and Android.
+
                         </p>
                         <p className="text-gray-300 mb-4">
-                            While working full time at Sea-Tac International Airport I 
-                            independently built a production-grade 29-step E2E automation 
-                            framework and a full-stack MERN food delivery application — 
-                            demonstrating self-driven commitment to software engineering 
-                            and QA automation.
+                            I bring hands-on experience building production-grade E2E frameworks 
+                            using Playwright, Cucumber BDD, TypeScript, and Jenkins CI/CD. Skilled 
+                            in Page Object Model, API testing, defect triage, and BDD methodology
+
                         </p>
                         <p className="text-gray-300 mb-6">
-                            With a background in quality assurance at King Abdulaziz 
-                            International Airport in Saudi Arabia — conducting daily slump, 
-                            temperature, stress and load testing, and defect documentation — 
-                            I bring real-world QA discipline to every automation framework 
-                            I build.
+                            While working full time at Sea-Tac International Airport I independently 
+                            built a production-grade 29-step E2E automation framework and a full-stack 
+                            MERN food delivery application — demonstrating self-driven commitment to 
+                            software engineering and QA automation."
+
                         </p>
 
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
